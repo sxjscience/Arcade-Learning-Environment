@@ -88,7 +88,7 @@
 #include "supported/WizardOfWor.hpp"
 #include "supported/YarsRevenge.hpp"
 #include "supported/Zaxxon.hpp"
-
+#include <algorithm>
 
 /* list of supported games */
 static const RomSettings *roms[]  = {

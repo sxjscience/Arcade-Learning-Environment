@@ -16,7 +16,7 @@
  */
 #ifndef __ROMUTILS_HPP__
 #define __ROMUTILS_HPP__
-
+#include <algorithm>
 class System;
 
 // reads a byte at a memory location between 0 and 1023

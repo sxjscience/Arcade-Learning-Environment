@@ -1,0 +1,6 @@
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface\ale_python_interface.py
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface\__init__.py
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface\ale_c.dll
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface\ale_python_interface.pyc
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface\__init__.pyc
+C:\Users\sxjscience\AppData\Roaming\Python\Python27\site-packages\ale_python_interface-0.0.1-py2.7.egg-info

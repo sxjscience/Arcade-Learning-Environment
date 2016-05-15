@@ -42,6 +42,12 @@ class VideoDialog;
 #include "../common/ScreenExporter.hpp"
 #include "../common/Log.hpp"
 
+#ifdef _MSC_VER 
+//not #if defined(_WIN32) || defined(_WIN64) because we have strncasecmp in mingw
+#define strncasecmp _strnicmp
+#define strcasecmp _stricmp
+#endif
+
 struct Resolution {
   uInt32 width;
   uInt32 height;
